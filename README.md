@@ -2,7 +2,7 @@
 
 - **[My Resume](https://github.com/user-attachments/files/17077764/GiannisFlamouridis-CV.pdf)**
 <!-- **Working as a Software Engineer at [Netcompany](https://www.netcompany.com/)** !-->
-- **BSc Graduate in Computer Science and Telecommunications at [University of Thessaly](https://www.uth.gr/)**
+- **BSc Graduate | Valedictorian in Computer Science and Telecommunications at [University of Thessaly](https://www.uth.gr/)**
 
 - **My profile on 💻 [Leetcode](https://leetcode.com/u/user6169gn/)**
 
