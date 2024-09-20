@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello 👋 I'm Giannis
 
-<!--
-**Flam-John/Flam-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Resume
+<!-- **Working as a Software Engineer at [Netcompany](https://www.netcompany.com/)** !-->
+- **BSc Graduate in Computer Science and Telecommunications at [University of Thessaly](https://www.uth.gr/)**
 
-Here are some ideas to get you started:
+## Leetcode profile 💻
+[Profile on Leetcode](https://leetcode.com/u/user6169gn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me
+📧 john.flam11@gmail.com / jflamouridis@gmail.com
+
+## Find me on LinkedIn
+[Profile on LinkedIn](https://www.linkedin.com/in/giannis-flamouridis/)
