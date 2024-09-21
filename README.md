@@ -4,7 +4,7 @@
 <!-- **Working as a Software Engineer at [Netcompany](https://www.netcompany.com/)** !-->
 - **BSc Graduate | Valedictorian in Computer Science and Telecommunications at [University of Thessaly](https://www.uth.gr/)**
 
-- **My profile on 💻 [Leetcode](https://leetcode.com/u/user6169gn/)**
+- **My profile on 💻 [Leetcode](https://leetcode.com/u/GiannisFlamouridis/)**
 
 - **Where to reach me 📧 john.flam11@gmail.com / jflamouridis@gmail.com**
 
