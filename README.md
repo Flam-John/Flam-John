@@ -1,4 +1,7 @@
+<p align="center">
 # Hello 👋 I'm Giannis
+</p>
+
 
 - **[My Resume](https://github.com/user-attachments/files/17077764/GiannisFlamouridis-CV.pdf)**
 <!-- **Working as a Software Engineer at [Netcompany](https://www.netcompany.com/)** !-->
