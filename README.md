@@ -1,6 +1,5 @@
-<p align="center">
-# Hello 👋 I'm Giannis
-</p>
+<h1 align="center"> Hi 👋, I'm Giannis</h1>
+
 
 
 - **[My Resume](https://github.com/user-attachments/files/17077764/GiannisFlamouridis-CV.pdf)**
